@@ -6,7 +6,11 @@ Principal UX & AI Experience Designer • Creative Technologist • Builder of T
 
 ## 🚀 What I Do
 - **At LexisNexis Risk Solutions**  
-  I led UX for **Automated Crash & Incident Reporting**—a public safety solution now helping law enforcement nationwide.  
+  I lead UX Design and strategy across Insurance, government, business and healthcare industries for various platforms like:
+- **CopLogic Solutions** a platform of different web based applications created for law enforcement, insurance and consumers. This includes:
+  - **BuyCrash**, an online solution designed to help consumers, insurance and others to retrieve citations. https://buycrash.lexisnexisrisk.com/ui/home
+  - **Community Crime Map**, a open access map that shows the different types of crime in a given area. https://communitycrimemap.com/
+  - **Coplogic Ethos**, a cloud-based citation and report management and delivery systems designed to optimize agency workflows. 
   *Translation: I design tools that matter in the real world, not just pretty screens.*  
 
 - **Founder of A.I.dvocate**  
@@ -38,6 +42,4 @@ Whether it’s a police officer filing a crash report, or a neurodiverse kid lea
 - [Portfolio](#)  
 - Or just open an issue here and say hi!  
 
----
 
-⚡ *Designing for tomorrow, debugging today.*  
