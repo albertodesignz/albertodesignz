@@ -6,17 +6,16 @@ Principal UX & AI Experience Designer • Creative Technologist • Builder of T
 
 ## 🚀 What I Do
 **For LexisNexis Risk Solutions**  
-  I lead UX Design and strategy across Insurance, government, business and healthcare industries for various platforms like:
+  I lead UX Design and strategy across Insurance, government, business and healthcare industries for various platforms and products:
 - **Cirium On Time Performace AI**
-  - Partnered with Cirium, a division of Risk that specializes in aviation analytics to create the industry's first AI assistant that provides insights into On Time Performance (OTP). https://journey.cirium.com/otp-award/landing
+  - Partnered with Cirium, a division of Risk that specializes in aviation analytics to create the industry's first AI assistant that provides insights into On Time Performance (OTP).
+  - https://journey.cirium.com/otp-award/landing
     
 - **CopLogic Solutions** a platform of different web based applications created for law enforcement, insurance and consumers. This includes:
   - **BuyCrash**, an online solution designed to help consumers, insurance and others to retrieve citations. https://buycrash.lexisnexisrisk.com/ui/home
   - **Community Crime Map**, a open access map that shows the different types of crime in a given area. https://communitycrimemap.com/
   - **Coplogic Ethos**, a cloud-based citation and report management and delivery systems designed to optimize agency workflows.
- 
-  - 
- 
+
 
 - **Founder of A.I.dvocate**  
   Creating **AI-powered apps** for the **neurodiverse community**, because technology should *empower*, not exclude.  
@@ -24,14 +23,14 @@ Principal UX & AI Experience Designer • Creative Technologist • Builder of T
   - 🌍 [CommuniSense](#): Turning chaotic social data into situational awareness  
   - 🛡 [CommuniGuard](#): AI that detects risks before they spiral  
 
-- **Avva Design Solutions**  
+- **AVUX Consulting**  
   My creative lab for exploring **UX, AI, AR, and future-forward design experiments**.  
 
 ---
 
 ## 🧩 Why I Build
-I believe UX isn’t just about usability—it’s about **human connection, inclusion, and integrity of design**.  
-Whether it’s a police officer filing a crash report, or a neurodiverse kid learning emotions through play—my job is to make that interaction *intelligent, meaningful, and effortless*.  
+I believe UX is about **human connection, inclusion, and integrity of design**.  
+
 
 ---
 
