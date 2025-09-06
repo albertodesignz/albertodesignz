@@ -5,7 +5,7 @@ Principal UX & AI Experience Designer • Creative Technologist • Builder of T
 ---
 
 ## 🚀 What I Do
-**At LexisNexis Risk Solutions**  
+**For LexisNexis Risk Solutions**  
   I lead UX Design and strategy across Insurance, government, business and healthcare industries for various platforms like:
 - **Cirium On Time Performace AI**
   - Partnered with Cirium, a division of Risk that specializes in aviation analytics to create the industry's first AI assistant that provides insights into On Time Performance (OTP). https://journey.cirium.com/otp-award/landing
@@ -16,7 +16,7 @@ Principal UX & AI Experience Designer • Creative Technologist • Builder of T
   - **Coplogic Ethos**, a cloud-based citation and report management and delivery systems designed to optimize agency workflows.
  
   - 
-  *Translation: I design tools that matter in the real world, not just pretty screens.*  
+ 
 
 - **Founder of A.I.dvocate**  
   Creating **AI-powered apps** for the **neurodiverse community**, because technology should *empower*, not exclude.  
