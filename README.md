@@ -35,6 +35,6 @@ https://www.avuxdesign.com/
 
 ## 📬 Let’s Connect!
 - [LinkedIn](#)  
-- Or just open an issue here and say hi!  
+
 
 
