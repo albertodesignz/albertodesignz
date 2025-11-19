@@ -23,8 +23,8 @@ Principal UX & AI Experience Designer • Creative Technologist • Builder of T
   - 🌍 [CommuniSense](#): Turning chaotic social data into situational awareness  
   - 🛡 [CommuniGuard](#): AI that detects risks before they spiral  
 
-- **AVUX Design Consulting**  
-  My creative lab for exploring **UX, AI, AR, and future-forward design experiments**.  
+- **Creative Playground**  
+My creative lab for exploring **UX, AI, AR, and future-forward design experiments**.  
 https://www.avuxdesign.com/
 ---
  **UXOps + DevOps mashups** (Storybook, Figma, component libraries)  
