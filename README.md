@@ -33,7 +33,7 @@ Principal UX & AI Experience Designer • Creative Technologist • Builder of T
 
 ---
 
-**AVUX CONSTULTING**
+**AVUX CONSULTING**
 - **Communi-sense**
   Helping grant researchers determine community needs after a disaster by understanding social media trends
 https://communi-sense.com/
