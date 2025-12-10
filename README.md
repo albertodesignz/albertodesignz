@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Albert  
 
-Principal UX & AI Experience Designer • Creative Technologist • Builder of Things That *Actually Work*  
+Principal UX & AI Experience Designer • Creative Technologist • Design Builder of Things That *Actually Ship*  
 
 ---
 
