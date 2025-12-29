@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Albert  
 
-Principal UX & AI Experience Designer • Creative Technologist • Design Builder of Things That *Actually Ship*  
+Principal Designer • Creative Technologist  
 
 ---
 
@@ -25,6 +25,8 @@ Principal UX & AI Experience Designer • Creative Technologist • Design Build
   - **Community Crime Map**, a open access map that shows the different types of crime in a given area. 
   https://communitycrimemap.com/
   - **Ethos**, a cloud-based citation and report management and delivery systems designed to optimize agency workflows.
+**Awards**
+-AutoTech Traffic Tech Solution of the Year (2023)
   
 **Partnerships Beyond LexisNexis**  
 - **Cirium On Time Performace AI**
