@@ -1,4 +1,4 @@
-# Welcome Online Repo of Albert Vargas 
+# Welcome to the Online Repo of Albert Vargas 
 Principal Designer • AIX • Creative • Technologist  • A/R  • V/R
 
 ---
