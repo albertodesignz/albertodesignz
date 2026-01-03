@@ -1,6 +1,5 @@
-# 👋 Hey, I’m Albert  
-
-Principal Designer • Creative Technologist  
+# 👋 Online Repo of Albert Vargas 
+Principal Designer • AIX • Creative • Technologist  • 
 
 ---
 
@@ -8,7 +7,7 @@ Principal Designer • Creative Technologist
 **For LexisNexis Risk Solutions**  
   I lead UX Design and strategy across insurance, government, finance and healthcare industries for various platforms and products:
  
- **Finnance**
+ **FinTech**
  - **Small Business Credit Report**
    A credit report that leverages alternative data to provide lenders a complete picture of a small business's credit worthiness
  https://risk.lexisnexis.com/products/small-business-credit-report
@@ -46,7 +45,7 @@ https://communi-sense.com/
 ---
 
 - **Creative Playground**  
-My creative lab for exploring **UX, AI, AR, and future-forward design experiments**.  
+My creative lab for exploring **AX, AI, AR, and future-forward design experiments**.  
 https://www.avuxdesign.com/
 ---
 
