@@ -41,6 +41,7 @@ https://communi-sense.com/
 
 - **COMMANDDOC**  
   AI powered file managment platform for compliance documentation
+  https://www.commanddoc.com
   
 ---
 
